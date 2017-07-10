@@ -1,4 +1,4 @@
-package com.krutova.task2.string;
+package com.krutova.tasktwo.string;
 
 public class StringTask3 {
 
